@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล :ศดานันท์ ลักษณะอารีย์
 
-Vercel URL : lab08-2567-660610795.vercel.app
+Vercel URL : https://lab08-2567-660610795.vercel.app/
 
 ---
 
